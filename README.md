@@ -28,5 +28,5 @@ The game ends when one player reaches 10 points.
 ### Team composition
 * [Matteo Assenza](https://github.com/assematt): Manager - Programmer
 * [Filip Anton](https://github.com/CarlGustavAlbertDwarfsteinYung): Game Design - Artist
-* [Jelani Garnes](https://github.com/Jelanigarnes): Artist - Sound
+* [Jelani Garnes](https://github.com/Jelanigarnes): Artist - Sound Engineer
 
